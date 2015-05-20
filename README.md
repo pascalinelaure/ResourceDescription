@@ -1,10 +1,6 @@
 # ResourceDescription
-A Participatory description of web resources for retrieval, recommendation, sharing, exchange and alerts. 
+A Participatory description of resources for retrieval, recommendation, sharing, exchange and alerts. 
 
-ResourceDescription
-
-A Participatory description of resources for retrieval, 
-recommendation, sharing, exchange and alerts.
 
 ResourceDescription is a web application for participatory description of resources 
 that should cooperate for information retrieval, recommendation, sharing, exchange 
