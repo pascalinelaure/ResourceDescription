@@ -35,7 +35,7 @@ Multi-lingual application (English, French, ...)
 
 // FR // 
 
-ResourceDescription
+# ResourceDescription FR 
 
 Description participative de ressources pour la recherche, 
 la recommandation, le partage, l'échange d'information et les messages d'alerte.
