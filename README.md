@@ -33,8 +33,6 @@ Synthesis of various research work on a given topic,
 Multi-lingual application (English, French, ...) 
 
 
-// FR // 
-
 # ResourceDescription FR 
 
 Description participative de ressources pour la recherche, 
