@@ -34,7 +34,7 @@ that should cooperate for information retrieval, filtering, recommendation, shar
 <ul>
 <li>Editing and Searching of resources, Merging of resources, Comparison and Recommendation of resources 
 (for education, research, leisures, professional career and so on),
-Machine learning (Supervised learning - linear regression, classification, neural network, Support Vector Machine -, 
+Machine learning (Supervised learning - linear regression, classification (logistic regression, decision trees, naive bayes), neural network, Support Vector Machine -, 
 Unsupervised learning - clustering (cocktail party problem, kmeans), anomaly detection, dimension reduction (Principal Component Analysis) - ) using multi-criteria for recommendation, Statistic analysis and graphical or geographic visualisation, 
 Synthesis of various research work on a given topic, Multi-lingual application (English, French, ...). </li>
 </ul>
@@ -70,7 +70,7 @@ professionnelle ou commerciale. Une information peut donc aussi être une instit
 <ul>
 <li>Edition et Recherche de ressources, Fusion de ressource, Comparaison et Recommandation de ressources 
 (pour les études, la recherche, les loisirs, la carrière professionnelle, etc.), 
-Machine learning (Supervised learning - régression linéaire, classification, réseaux de neurones, Support Vector Machine -, 
+Machine learning (Supervised learning - régression linéaire, classification (logistic regression, arbres de décisions, bayésien naïf), réseaux de neurones, Support Vector Machine -, 
 Unsupervised learning - clustering (cocktail party problem, k-means), détection d'anomalies, réduction de dimension (Principal Component Analysis) - ) 
 multi-critères pour la recommandation, Analyse statistique et visualisation graphique et géographique, 
 Synthèse automatique de differents travaux de recherche sur un sujet donné, 
