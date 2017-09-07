@@ -26,8 +26,8 @@ that should cooperate for information retrieval, filtering, recommendation, shar
   <li>Hence, an information can be of category academic (a book, an article, a phd, a tutorial, a MOOC), 
   professional or commercial. An information can then also be an institution (an organisation, 
   an enterprise, an association, a university, a media), an activity and so on. </li>
-  <li> A user can have different profiles and facets: personal, professional (entrepreneur, employee, student), 
-  healthy, personality (politician, journalist, artist). </li> 
+  <li> A user can have different profiles and facets: personal (family, friends), 
+professional (entrepreneur, employee, colleagues, student), healthy, personality (politician, journalist, artist). </li> 
 </ul>			 
 			
 <p>Applications </p>
@@ -62,7 +62,8 @@ Une ressource sera affectée à une ou plusieurs catégories et une catégorie p
 <ul>
 <li> Ainsi, une information peut être de catégorie académique (un livre, un article, une thèse, un tutoriel, un MOOC), 
 professionnelle ou commerciale. Une information peut donc aussi être une institution (une organisation, une entreprise, une association, une université, un média), une activité, etc. </li>
-<li> Un utilisateur peut avoir différents profils et facettes : personnel, professionnel (entrepreneur, employé, étudiant, élève), santé, personalité (politicien, journaliste, artiste).
+<li> Un utilisateur peut avoir différents profils et facettes : personnel (famille, amis), 
+professionnel (entrepreneur, employé, collègues, étudiant, élève), santé, personalité (politicien, journaliste, artiste).
 </li>
 </ul>			 
 			 
