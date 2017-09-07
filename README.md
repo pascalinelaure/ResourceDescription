@@ -10,7 +10,7 @@ that should cooperate for information retrieval, filtering, recommendation, shar
 			 
  <p>
    A resource can be an information under a given format (text, image, sound, video). 
-   An information can also be a user (human resource), a hardware device (hardware resource), 
+   A resource can also be a user (human resource), a hardware device (hardware resource), 
    a software (software resource) or a financial mean of payment (financial resource) used to access information. 
    A resource should be bound to one or several categories and a category could have subcategories with associated 
    descriptive criteria. 
