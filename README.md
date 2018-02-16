@@ -5,7 +5,7 @@
 </p>
 
  <p> ResourceDescription is a web application for participatory description of resources 
-that should cooperate for information retrieval, filtering, recommendation, sharing, exchange and alerts. 
+that should cooperate for information retrieval, filtering, recommendation, sharing, exchange and alerts. Resources are organised by categories and sub-categories. Users create resources that can be judged, commented or annotated. 
  </p>
 			 
  <p>
@@ -47,7 +47,7 @@ Synthesis of various research work on a given topic, Multi-lingual application (
 la recommandation, le partage, l'échange d'information et les messages d'alerte. </p>
 
  <p>ResourceDescription est une application web de description participative de ressources qui coopèrent pour la recherche, 
-le filtrage, la recommandation, le partage, l'échange d'information mais aussi pour les messages d'alerte. </p>
+le filtrage, la recommandation, le partage, l'échange d'information mais aussi pour les messages d'alerte. Les ressources sont organisées par catégories et sous-catégories. Les usagers créent des ressources qui peuvent être jugées, commentées ou annotées.  </p>
 			 
 <p>Une ressource peut être une information sous un certain format (texte, image, son, vidéo). Une ressource peut également être un utilisateur (ressource humaine), un dispositif matériel (ressource matérielle), un logiciel (ressource logicielle) ou un moyen de paiement (ressource financière) utilisé pour l'accès à l'information. 
 Une ressource sera affectée à une ou plusieurs catégories et une catégorie pourra avoir des sous-categories avec des critères descriptifs associés. </p>
