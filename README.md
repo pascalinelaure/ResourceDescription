@@ -75,7 +75,7 @@ professionnel (entrepreneur, employé, collègues, étudiant, élève), santé, 
 Machine learning (Supervised learning - régression linéaire, classification (logistic regression, arbres de décisions, bayésien naïf), réseaux de neurones, Support Vector Machine -, 
 Unsupervised learning - clustering (cocktail party problem, k-means), détection d'anomalies, réduction de dimension (Principal Component Analysis) - ) 
 multi-critères pour la recommandation, Analyse statistique et visualisation graphique et géographique, 
-Synthèse automatique de differents travaux de recherche sur un sujet donné, 
+Synthèse automatique de différents travaux de recherche sur un sujet donné, 
 Applications multi-lingues (anglais, français, ...). </li>
 </ul> 
 		
