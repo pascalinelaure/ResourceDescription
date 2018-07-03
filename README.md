@@ -6,7 +6,7 @@
 
  <p> ResourceDescription is a web application for participatory description of resources 
 that should cooperate for information retrieval, filtering, recommendation, sharing, exchange and alerts. Resources are organised by categories and sub-categories. Users create resources that can be judged, commented or annotated (publicly or 
-among one or seeveral groups). 
+among one or several groups). 
  </p>
 			 
  <p>
@@ -36,7 +36,7 @@ professional (entrepreneur, employee, colleagues, student), healthy, personality
 <li>Editing and Searching of resources, Modification and Merging of resources, Comparison and Recommendation of resources 
 (for education, research, leisures, professional career and so on),
 Machine learning (Supervised learning - linear regression, classification (logistic regression, decision trees, naive bayes), neural network, Support Vector Machine -, 
-Unsupervised learning - clustering (cocktail party problem, kmeans), anomaly detection, dimension reduction (Principal Component Analysis) - ) using multi-criteria for recommendation, Statistic analysis and graphical or geographic visualisation, 
+Unsupervised learning - clustering (cocktail party problem, kmeans), anomaly detection, dimension reduction (Principal Component Analysis) - ) using multi-criteria for recommendation, Statistic analysis and graphical or geographical visualisation, 
 Synthesis of various research work on a given topic, Multi-lingual applications (English, French, ...). </li>
 </ul>
 
