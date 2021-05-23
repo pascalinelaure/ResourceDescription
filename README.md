@@ -1,7 +1,7 @@
 # ResourceDescription
 
 <p>
-  A Participatory description of resources for retrieval, filtering, recommendation, sharing, exchange and alerts.
+  A Participatory description of resources for retrieval, filtering, recommendation, sharing, exchange, alerts and machine learning.
 </p>
 
  <p> ResourceDescription is a web application for participatory description of resources 
@@ -44,7 +44,7 @@ Synthesis of various research work on a given topic, Multi-lingual applications 
 # ResourceDescription FR 
 
 <p>Description participative de ressources pour la recherche, le filtrage, 
-la recommandation, le partage, l'échange d'information et les messages d'alerte. </p>
+la recommandation, le partage, l'échange d'information, les messages d'alerte et l'apprentissage automatique. </p>
 
  <p>ResourceDescription est une application web de description participative de ressources qui coopèrent pour la recherche, 
 le filtrage, la recommandation, le partage, l'échange d'information mais aussi pour les messages d'alerte. Les ressources sont organisées par catégories et sous-catégories. Les usagers créent des ressources qui peuvent être jugées, commentées ou annotées.  </p>
